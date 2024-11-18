@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807013955424",
+    "project_id": "social-media-clone-3f76b",
+    "storage_bucket": "social-media-clone-3f76b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807013955424:android:be1f73622cbd0013535005",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrNHBAmSBI222sSiMiblxL9r2-yqhmECQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
